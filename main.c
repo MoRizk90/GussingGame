@@ -1,3 +1,11 @@
+/*
+    Author : Mohammed Rizk
+    Email: Mo.Magdy.Rizk@Gmail.com
+    Description : The below script was mainly done to practice my ability to control flow the program
+
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <Time.h>
