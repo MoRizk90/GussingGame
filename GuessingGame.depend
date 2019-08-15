@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565861790 source:e:\development_project\c\training\gussinggame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Time.h>
+
